@@ -1,0 +1,19 @@
+.headerText {
+    text-align: center;
+}
+.green {
+    color: green;
+}
+.red {
+    color: red;
+}
+li {
+    margin-bottom: 10px;
+    list-style-type: none;
+}
+input {
+    margin-top: 15px;
+}
+button {
+    margin: 10px;
+}
